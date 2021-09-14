@@ -1,0 +1,22 @@
+C:\Users\dimip\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.csprojAssemblyReference.cache
+C:\Users\dimip\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.MainForm.resources
+C:\Users\dimip\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.Properties.Resources.resources
+C:\Users\dimip\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.csproj.GenerateResource.cache
+C:\Users\dimip\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.csproj.CoreCompileInputs.cache
+C:\Users\dimip\Desktop\HRApplication\HRApplication\bin\Debug\HRApplication.exe.config
+C:\Users\dimip\Desktop\HRApplication\HRApplication\bin\Debug\HRApplication.exe
+C:\Users\dimip\Desktop\HRApplication\HRApplication\bin\Debug\HRApplication.pdb
+C:\Users\dimip\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.exe
+C:\Users\dimip\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.pdb
+C:\Users\dimip\Desktop\HRApplication\HRApplication\obj\Debug\HRApplication.EmployeeForm.resources
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\bin\Debug\HRApplication.exe.config
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\bin\Debug\HRApplication.exe
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\bin\Debug\HRApplication.pdb
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\obj\Debug\HRApplication.csprojAssemblyReference.cache
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\obj\Debug\HRApplication.EmployeeForm.resources
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\obj\Debug\HRApplication.MainForm.resources
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\obj\Debug\HRApplication.Properties.Resources.resources
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\obj\Debug\HRApplication.csproj.GenerateResource.cache
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\obj\Debug\HRApplication.csproj.CoreCompileInputs.cache
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\obj\Debug\HRApplication.exe
+C:\Users\dimip\Desktop\To Zip\Programming II\HRApplication\obj\Debug\HRApplication.pdb

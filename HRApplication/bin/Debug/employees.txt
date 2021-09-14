@@ -1,0 +1,6 @@
+S|Bloggs|Fred|University of Derby, Kedleston Road, Darmpdasd|DE22 1GB|01332 590000|1985|4|2|342423
+S|Maznas|Petros|Meditteranean 20|439028409|093284230|2020|12|29|43
+H|Pakos|Pokos|Pikos|Pekos|3424|2021|4|30|4324|423423
+S|Pokos|Pikos|Pakos|423432|324234|2021|5|1|432
+H|Smith|John|42 Some Street, SomeTown, SomeWhere|SW12 5SW|6666666|2000|3|15|4.5|55.55
+H|Pika|Tsu|Pokemon|3409823|429308423|2021|3|13|3424|2343
